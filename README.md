@@ -14,9 +14,7 @@ Desenvolvedor de Software com foco em Back-end • APIs • Banco de Dados • A
 ## 👨‍💻 Sobre mim
 
 Eu me chamo **Luciano Nogueira**, estudante de **Ciência da Computação** e desenvolvedor com foco total em **desenvolvimento back-end**.
-
 Meu interesse está na parte invisível das aplicações: regras de negócio, APIs, banco de dados, estrutura, organização e desempenho.
-
 Gosto de entender como os sistemas funcionam por dentro e transformar teoria em aplicações reais.
 
 - 🎓 Ciência da Computação — UNIP (3º período)
@@ -25,9 +23,7 @@ Gosto de entender como os sistemas funcionam por dentro e transformar teoria em 
 - 🧠 Forte base em lógica, algoritmos e estrutura de dados
 - 📍 Manaus — Amazonas
 - 📫 lucianogueira156@gmail.com
-
 ---
-
 ## 🧠 Foco técnico atual
 
 Atualmente concentro meus estudos e projetos em:
@@ -38,9 +34,7 @@ Atualmente concentro meus estudos e projetos em:
 - Modelagem de banco de dados
 - Versionamento profissional com Git
 - Estrutura interna de aplicações web
-
 ---
-
 ## 🚀 Tecnologias que utilizo
 
 <p align="center">
@@ -49,13 +43,11 @@ Atualmente concentro meus estudos e projetos em:
 
 - **Python** — Lógica, estrutura e desenvolvimento de aplicações
 - **FastAPI** — Criação de APIs REST robustas e bem documentadas
-- **Java** — Fundamentos de orientação a objetos, lógica de programação e estrutura de aplicações
+- **Java** — Fundamentos básicos
 - **MySQL** — Modelagem de dados, consultas e organização de informações
 - **Git & GitHub** — Versionamento e organização de projetos
 - **HTML & CSS** — Estruturação de interfaces quando necessário para integração com o back-end
-
 ---
-
 ## 📌 Projetos em destaque
 
 ### 🌱 Site sobre Desenvolvimento Sustentável
@@ -65,17 +57,13 @@ Projeto utilizando HTML e CSS com foco em:
 - Experiência do usuário
 
 Esse projeto foi importante para entender como o front se conecta com o back.
-
 ---
-
 ### 🛰️ Projeto consumindo API externa
 Projeto focado no consumo de dados externos, entendendo:
 - Requisições HTTP
 - Estrutura de dados retornados por APIs
 - Organização da aplicação
-
 ---
-
 ## 💼 Experiência acadêmica aplicada à prática
 
 Durante a graduação venho aplicando na prática:
@@ -86,9 +74,7 @@ Durante a graduação venho aplicando na prática:
 - Criação e organização de APIs
 - Estrutura interna de sistemas web
 - Versionamento de projetos reais
-
 ---
-
 ## 🎓 Formação
 
 **Ciência da Computação — UNIP**  
@@ -96,16 +82,12 @@ Previsão de conclusão: 12/2028
 
 **Ensino Médio Técnico — IFAM Tefé**  
 Conclusão: 01/2025
-
 ---
-
 ## 🌎 Idiomas
 
 - Português — Nativo
 - Inglês — Leitura e compreensão técnica
-
 ---
-
 ## ✨ Diferenciais
 
 - Forte base teórica aplicada em projetos práticos
@@ -113,9 +95,7 @@ Conclusão: 01/2025
 - Perfil organizado, analítico e proativo
 - Clareza de objetivo na área de Back-end
 - Evolução constante através de projetos e estudos
-
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -126,9 +106,7 @@ Conclusão: 01/2025
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucin926&theme=tokyonight" />
 </p>
-
 ---
-
 ## 🤝 Contato
 
 <p align="center">
