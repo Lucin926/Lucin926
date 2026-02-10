@@ -1,112 +1,111 @@
-<!-- BANNER -->
+<!-- BANNER SIMPLES E ESTÁVEL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Luciano%20Nogueira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0b1220&height=180&section=header&text=Luciano%20Nogueira&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Olá, mundo! 👋</h1>
-
-<p align="center">
-Desenvolvedor de Software com foco em Back-end • APIs • Banco de Dados • Arquitetura de Sistemas
-</p>
+<h1 align="center">Desenvolvedor de Software com foco em Back-end</h1>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Eu me chamo **Luciano Nogueira**, estudante de **Ciência da Computação** e desenvolvedor com foco total em **desenvolvimento back-end**.
-Meu interesse está na parte invisível das aplicações: regras de negócio, APIs, banco de dados, estrutura, organização e desempenho.
-Gosto de entender como os sistemas funcionam por dentro e transformar teoria em aplicações reais.
+Eu me chamo **Luciano Nogueira**, sou natural de **Alvarães – Amazonas** e atualmente moro em **Manaus**.  
+Sou estudante de **Ciência da Computação** e desenvolvedor com foco total em **Back-end**.
+
+Meu interesse está na parte que não aparece para o usuário, mas que sustenta toda aplicação:  
+**regras de negócio, APIs, banco de dados, organização interna do sistema, desempenho e arquitetura.**
+
+Gosto de entender profundamente como os sistemas funcionam por dentro e transformar teoria em aplicações reais, organizadas e funcionais.
+
+Minha evolução na programação sempre esteve ligada à prática: tudo o que estudo eu aplico em projetos, APIs e experimentos próprios para consolidar o conhecimento.
 
 - 🎓 Ciência da Computação — UNIP (3º período)
 - 💻 Desenvolvimento de APIs REST com FastAPI
 - 🗄️ Modelagem e manipulação de bancos de dados SQL
+- ☕ Conhecimentos em Java com foco em orientação a objetos e estrutura de aplicações
 - 🧠 Forte base em lógica, algoritmos e estrutura de dados
-- 📍 Manaus — Amazonas
+- 📍 Manaus — AM
 - 📫 lucianogueira156@gmail.com
+
 ---
+
 ## 🧠 Foco técnico atual
 
 Atualmente concentro meus estudos e projetos em:
 
 - Construção de APIs REST
 - Organização de projetos back-end
-- Boas práticas de código e arquitetura
-- Modelagem de banco de dados
+- Boas práticas e arquitetura de código
+- Modelagem de banco de dados relacional
 - Versionamento profissional com Git
-- Estrutura interna de aplicações web
+- Estrutura interna de sistemas web
+
 ---
-## 🚀 Tecnologias que utilizo
+
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,git,github,html,css" />
 </p>
 
-- **Python** — Lógica, estrutura e desenvolvimento de aplicações
-- **FastAPI** — Criação de APIs REST robustas e bem documentadas
-- **Java** — Fundamentos básicos
-- **MySQL** — Modelagem de dados, consultas e organização de informações
+- **Python** — Desenvolvimento de aplicações e APIs
+- **FastAPI** — Criação de APIs REST organizadas e documentadas
+- **Java** — Fundamentos de orientação a objetos, lógica de programação e estrutura de aplicações
+- **MySQL** — Modelagem, consultas e organização de dados
 - **Git & GitHub** — Versionamento e organização de projetos
-- **HTML & CSS** — Estruturação de interfaces quando necessário para integração com o back-end
+- **HTML & CSS** — Utilizados quando necessário para integração com o back-end
+
 ---
-## 📌 Projetos em destaque
+
+## 📌 Projetos
 
 ### 🌱 Site sobre Desenvolvimento Sustentável
-Projeto utilizando HTML e CSS com foco em:
-- Organização de código
-- Estruturação semântica
-- Experiência do usuário
+Projeto com HTML e CSS focado em organização de código, estruturação semântica e experiência do usuário.
 
-Esse projeto foi importante para entender como o front se conecta com o back.
----
 ### 🛰️ Projeto consumindo API externa
-Projeto focado no consumo de dados externos, entendendo:
-- Requisições HTTP
-- Estrutura de dados retornados por APIs
-- Organização da aplicação
----
-## 💼 Experiência acadêmica aplicada à prática
+Projeto voltado para entendimento de requisições HTTP, estrutura de dados e organização da aplicação.
 
-Durante a graduação venho aplicando na prática:
-
-- Algoritmos e Estruturas de Dados
-- Programação em Python e Java
-- Banco de dados com SQL
-- Criação e organização de APIs
-- Estrutura interna de sistemas web
-- Versionamento de projetos reais
 ---
+
 ## 🎓 Formação
 
 **Ciência da Computação — UNIP**  
-Previsão de conclusão: 12/2028
+Previsão: 12/2028
 
 **Ensino Médio Técnico — IFAM Tefé**  
 Conclusão: 01/2025
+
 ---
+
 ## 🌎 Idiomas
 
 - Português — Nativo
 - Inglês — Leitura e compreensão técnica
+
 ---
+
 ## ✨ Diferenciais
 
-- Forte base teórica aplicada em projetos práticos
-- Facilidade de aprendizado de novas tecnologias
-- Perfil organizado, analítico e proativo
+- Base teórica aplicada em projetos práticos
+- Perfil analítico, organizado e proativo
 - Clareza de objetivo na área de Back-end
-- Evolução constante através de projetos e estudos
+- Evolução constante através de estudos e prática
+
 ---
-## 📊 Estatísticas do GitHub
+
+## 📊 Estatísticas gerais do GitHub (todos os anos)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucin926&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucin926&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucin926&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucin926&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucin926&theme=tokyonight" />
 </p>
+
 ---
+
 ## 🤝 Contato
 
 <p align="center">
@@ -119,5 +118,5 @@ Conclusão: 01/2025
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:111827,100:1f2937&height=100&section=footer"/>
 </p>
