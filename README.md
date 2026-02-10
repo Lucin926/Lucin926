@@ -80,7 +80,7 @@ Conclusão: 01/2025
 ## 🌎 Idiomas
 
 - Português — Nativo
-- Inglês — Leitura e compreensão técnica
+- Inglês (A2) — Leitura e compreensão técnica
 
 ---
 
