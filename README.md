@@ -3,120 +3,151 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0b1220&height=180&section=header&text=Luciano%20Nogueira&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Desenvolvedor de Software com foco em Back-end</h1>
+<h1 align="center">Desenvolvedor Back-end e Mobile</h1>
+
+<p align="center">
+  Python • FastAPI • PostgreSQL • Flutter • Dart
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-Eu me chamo **Luciano Nogueira**, sou natural de **Alvarães – Amazonas** e atualmente moro em **Manaus**.  
-Sou estudante de **Ciência da Computação** e desenvolvedor com foco total em **Back-end**.
+Olá! Meu nome é **Luciano Nogueira**, sou estudante de **Ciência da Computação** e desenvolvedor de software com foco em **Back-end** e **Desenvolvimento Mobile**.
 
-Meu interesse está na parte que não aparece para o usuário, mas que sustenta toda aplicação:  
-**regras de negócio, APIs, banco de dados, organização interna do sistema, desempenho e arquitetura.**
+Tenho grande interesse pela construção de sistemas, APIs e aplicações que resolvam problemas reais. Gosto especialmente da parte responsável pela lógica, organização e funcionamento interno dos sistemas, trabalhando com regras de negócio, modelagem de banco de dados, arquitetura de software e integração entre serviços.
 
-Gosto de entender profundamente como os sistemas funcionam por dentro e transformar teoria em aplicações reais, organizadas e funcionais.
+Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e Flutter para desenvolvimento de aplicações móveis multiplataforma.
 
-Minha evolução na programação sempre esteve ligada à prática: tudo o que estudo eu aplico em projetos, APIs e experimentos próprios para consolidar o conhecimento.
+Acredito que a prática é uma das melhores formas de aprendizado. Por isso, procuro transformar tudo o que estudo em projetos reais, explorando desde a implementação até a organização e evolução das aplicações.
 
-- 🎓 Ciência da Computação — UNIP (3º período)
-- 💻 Desenvolvimento de APIs REST com FastAPI
-- 🗄️ Modelagem e manipulação de bancos de dados SQL
-- ☕ Conhecimentos em Java com foco em orientação a objetos e estrutura de aplicações
-- 🧠 Forte base em lógica, algoritmos e estrutura de dados
-- 📍 Manaus — AM
-- 📫 lucianogueira156@gmail.com
+- 🎓 Ciência da Computação — UNIP
+- 📍 Manaus — Amazonas
+- 💻 Desenvolvedor Back-end e Mobile
+- 🚀 Foco em APIs REST, Banco de Dados e Arquitetura de Software
+- 📫 Contato: [lucianogueira156@gmail.com](mailto:lucianogueira156@gmail.com)
 
 ---
 
-## 🧠 Foco técnico atual
+## 🧠 Áreas de Interesse
 
-Atualmente concentro meus estudos e projetos em:
-
-- Construção de APIs REST
-- Organização de projetos back-end
-- Boas práticas e arquitetura de código
-- Modelagem de banco de dados relacional
-- Versionamento profissional com Git
-- Estrutura interna de sistemas web
+- Desenvolvimento Back-end
+- Desenvolvimento Mobile
+- APIs REST
+- Arquitetura de Software
+- Banco de Dados Relacionais
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,flutter,dart,git,github" />
 </p>
 
-- **Python** — Desenvolvimento de aplicações e APIs
-- **FastAPI** — Criação de APIs REST organizadas e documentadas
-- **Java** — Fundamentos de orientação a objetos, lógica de programação e estrutura de aplicações
-- **MySQL** — Modelagem, consultas e organização de dados
-- **Git & GitHub** — Versionamento e organização de projetos
-- **HTML & CSS** — Utilizados quando necessário para integração com o back-end
+### Linguagens
+
+- Python
+- Java
+- Dart
+- SQL
+
+### Back-end
+
+- FastAPI
+- APIs REST
+- Pydantic
+- SQLAlchemy
+- JWT Authentication
+- Validação de Dados
+
+### Banco de Dados
+
+- PostgreSQL
+- SQL
+- Modelagem Relacional
+- Consultas e Manipulação de Dados
+
+### Mobile
+
+- Flutter
+- Dart
+- Consumo de APIs
+- Navegação entre Telas
+- Gerenciamento de Estado
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📌 Projetos
+## 📌 Projeto em Destaque
 
-### 🌱 Site sobre Desenvolvimento Sustentável
-Projeto com HTML e CSS focado em organização de código, estruturação semântica e experiência do usuário.
+### 🎫 SATI — Sistema de Atendimento de Tecnologia da Informação
 
-### 🛰️ Projeto consumindo API externa
-Projeto voltado para entendimento de requisições HTTP, estrutura de dados e organização da aplicação.
+O SATI é um sistema desenvolvido para auxiliar o setor de Tecnologia da Informação do IMPLURB (Instituto Municipal de Planejamento Urbano) no gerenciamento e acompanhamento de chamados técnicos.
 
----
+O sistema foi criado com o objetivo de centralizar as solicitações realizadas pelos usuários da instituição, permitindo maior organização, controle e eficiência nos atendimentos.
 
-## 🎓 Formação
+### Funcionalidades
 
-**Ciência da Computação — UNIP**  
-Previsão: 12/2028
+- Cadastro de usuários
+- Abertura de chamados
+- Controle de status
+- Definição de prioridades
+- Acompanhamento em tempo real
+- Histórico completo de atendimentos
+- Dashboard gerencial
+- Indicadores operacionais
+- Emissão de relatórios
+- Gestão centralizada das demandas
 
-**Ensino Médio Técnico — IFAM Tefé**  
-Conclusão: 01/2025
+### Objetivos do Projeto
 
----
-
-## 🌎 Idiomas
-
-- Português — Nativo
-- Inglês (A2) — Leitura e compreensão técnica
-
----
-
-## ✨ Diferenciais
-
-- Base teórica aplicada em projetos práticos
-- Perfil analítico, organizado e proativo
-- Clareza de objetivo na área de Back-end
-- Evolução constante através de estudos e prática
+- Melhorar o fluxo de atendimento da equipe de TI
+- Centralizar informações em um único sistema
+- Aumentar a rastreabilidade dos chamados
+- Facilitar a geração de relatórios gerenciais
+- Otimizar o acompanhamento das demandas internas
 
 ---
 
-## 📊 Estatísticas gerais do GitHub (todos os anos)
+## 📊 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucin926&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucin926&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucin926&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucin926&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🤝 Contato
+## 📈 Atividade de Contribuições
 
 <p align="center">
-  <a href="mailto:lucianogueira156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/lucin926">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucin926&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧠 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucin926&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:111827,100:1f2937&height=100&section=footer"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucin926&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucin926&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Streak (sequência de commits)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucin926&theme=tokyonight&hide_border=true" />
 </p>
