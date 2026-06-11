@@ -97,7 +97,6 @@ O sistema foi criado com o objetivo de centralizar as solicitações realizadas 
 - Cadastro de usuários
 - Abertura de chamados
 - Controle de status
-- Definição de prioridades
 - Acompanhamento em tempo real
 - Histórico completo de atendimentos
 - Dashboard gerencial
