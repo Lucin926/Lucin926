@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0b1220&height=180&section=header&text=Luciano%20Nogueira&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Desenvolvedor Back-end e Mobile</h1>
+<h1 align="center">Desenvolvedor Back-end e Android</h1>
 
 <p align="center">
   Python • FastAPI • PostgreSQL • Flutter • Dart
@@ -17,13 +17,13 @@ Olá! Meu nome é **Luciano Nogueira**, sou estudante de **Ciência da Computaç
 
 Tenho grande interesse pela construção de sistemas, APIs e aplicações que resolvam problemas reais. Gosto especialmente da parte responsável pela lógica, organização e funcionamento interno dos sistemas, trabalhando com regras de negócio, modelagem de banco de dados, arquitetura de software e integração entre serviços.
 
-Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e Flutter para desenvolvimento de aplicações móveis multiplataforma.
+Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e kotlin para desenvolvimento de aplicações android.
 
 Acredito que a prática é uma das melhores formas de aprendizado. Por isso, procuro transformar tudo o que estudo em projetos reais, explorando desde a implementação até a organização e evolução das aplicações.
 
 - 🎓 Ciência da Computação — UNIP
 - 📍 Manaus — Amazonas
-- 💻 Desenvolvedor Back-end e Mobile
+- 💻 Desenvolvedor Back-end e Android
 - 🚀 Foco em APIs REST, Banco de Dados e Arquitetura de Software
 - 📫 Contato: [lucianogueira156@gmail.com](mailto:lucianogueira156@gmail.com)
 
@@ -32,7 +32,7 @@ Acredito que a prática é uma das melhores formas de aprendizado. Por isso, pro
 ## 🧠 Áreas de Interesse
 
 - Desenvolvimento Back-end
-- Desenvolvimento Mobile
+- Desenvolvimento Android
 - APIs REST
 - Arquitetura de Software
 - Banco de Dados Relacionais
@@ -42,14 +42,14 @@ Acredito que a prática é uma das melhores formas de aprendizado. Por isso, pro
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,flutter,dart,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,androidstudio,postgres,git,github" />
 </p>
 
 ### Linguagens
 
 - Python
 - Java
-- Dart
+- Kotlin
 - SQL
 
 ### Back-end
@@ -68,13 +68,14 @@ Acredito que a prática é uma das melhores formas de aprendizado. Por isso, pro
 - Modelagem Relacional
 - Consultas e Manipulação de Dados
 
-### Mobile
+### Android
 
-- Flutter
-- Dart
-- Consumo de APIs
+- Kotlin
+- Android Studio
+- Desenvolvimento Android Nativo
+- Consumo de APIs REST
 - Navegação entre Telas
-- Gerenciamento de Estado
+- Arquitetura MVVM
 
 ### Ferramentas
 
