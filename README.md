@@ -6,7 +6,7 @@
 <h1 align="center">Desenvolvedor Back-end e Android</h1>
 
 <p align="center">
-  Python • FastAPI • PostgreSQL • Flutter • Dart
+  Python • FastAPI • PostgreSQL • Kotlin • Android
 </p>
 
 ---
