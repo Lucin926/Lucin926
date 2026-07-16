@@ -13,11 +13,11 @@
 
 ## 👋 Sobre mim
 
-Olá! Meu nome é **Luciano Nogueira**, sou estudante de **Ciência da Computação** e desenvolvedor de software com foco em **Back-end** e **Desenvolvimento Mobile**.
+Olá! Meu nome é **Luciano Nogueira**, sou estudante de **Ciência da Computação** e desenvolvedor de software com foco em **Back-end** e **Desenvolvimento Android**.
 
 Tenho grande interesse pela construção de sistemas, APIs e aplicações que resolvam problemas reais. Gosto especialmente da parte responsável pela lógica, organização e funcionamento interno dos sistemas, trabalhando com regras de negócio, modelagem de banco de dados, arquitetura de software e integração entre serviços.
 
-Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e kotlin para desenvolvimento de aplicações android.
+Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e Kotlin para desenvolvimento de aplicações Android nativas.
 
 Acredito que a prática é uma das melhores formas de aprendizado. Por isso, procuro transformar tudo o que estudo em projetos reais, explorando desde a implementação até a organização e evolução das aplicações.
 
