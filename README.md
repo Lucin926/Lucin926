@@ -1,153 +1,127 @@
-<!-- BANNER SIMPLES E ESTÁVEL -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0b1220&height=180&section=header&text=Luciano%20Nogueira&fontSize=38&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h1 align="center">Desenvolvedor Back-end e Android</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1D4ED8,100:06B6D4&text=Luciano%20Nogueira&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Back-end%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Android&descAlignY=58&animation=fadeIn"/>
 
-<p align="center">
-  Python • FastAPI • PostgreSQL • Kotlin • Android
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&lines=Transformando+problemas+reais+em+software;Construindo+APIs+seguras+e+organizadas;Criando+solu%C3%A7%C3%B5es+que+geram+impacto;Back-end+Python+%2B+Android+Kotlin" alt="Apresentação animada"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Lucin926&label=VISITAS%20AO%20PERFIL&color=2563EB&style=for-the-badge" alt="Visualizações do perfil"/>
+
+<br><br>
+
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-VER_PROJETOS-2563EB?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lucianoportif-lio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luciano-silva-334009290/)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTATO-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5597084399599)
+[![Gmail](https://img.shields.io/badge/GMAIL-ENVIAR_EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucianogueira156@gmail.com)
+
+
+</div>
 
 ---
 
 ## 👋 Sobre mim
 
-Olá! Meu nome é **Luciano Nogueira**, sou estudante de **Ciência da Computação** e desenvolvedor de software com foco em **Back-end** e **Desenvolvimento Android**.
+Sou **Luciano Nogueira**, estudante de Ciência da Computação e desenvolvedor com foco em **Back-end com Python** e **Android com Kotlin**.
 
-Tenho grande interesse pela construção de sistemas, APIs e aplicações que resolvam problemas reais. Gosto especialmente da parte responsável pela lógica, organização e funcionamento interno dos sistemas, trabalhando com regras de negócio, modelagem de banco de dados, arquitetura de software e integração entre serviços.
+Construo soluções voltadas para problemas reais, trabalhando com APIs, regras de negócio, banco de dados, arquitetura de software e integração entre sistemas.
 
-Atualmente concentro meus estudos no ecossistema Python utilizando FastAPI para desenvolvimento de APIs REST, PostgreSQL para persistência de dados e Kotlin para desenvolvimento de aplicações Android nativas.
-
-Acredito que a prática é uma das melhores formas de aprendizado. Por isso, procuro transformar tudo o que estudo em projetos reais, explorando desde a implementação até a organização e evolução das aplicações.
-
-- 🎓 Ciência da Computação — UNIP
-- 📍 Manaus — Amazonas
-- 💻 Desenvolvedor Back-end e Android
-- 🚀 Foco em APIs REST, Banco de Dados e Arquitetura de Software
-- 📫 Contato: [lucianogueira156@gmail.com](mailto:lucianogueira156@gmail.com)
+> **Não quero apenas escrever código. Quero construir soluções que façam diferença.**
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🚀 Projeto em destaque
 
-- Desenvolvimento Back-end
-- Desenvolvimento Android
-- APIs REST
-- Arquitetura de Software
-- Banco de Dados Relacionais
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=SATI+%E2%80%94+Sistema+de+Atendimento+de+TI;Organiza%C3%A7%C3%A3o+%E2%80%A2+Controle+%E2%80%A2+Efici%C3%AAncia;Tecnologia+aplicada+a+um+problema+real" alt="SATI animado"/>
 
-## 🚀 Tecnologias
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,androidstudio,postgres,git,github" />
-</p>
+O **SATI** é um sistema criado para apoiar o setor de Tecnologia da Informação do **IMPLURB**, centralizando chamados técnicos, atendimentos, indicadores e relatórios.
 
-### Linguagens
+### O que o sistema entrega
 
-- Python
-- Java
-- Kotlin
-- SQL
+* Registro e acompanhamento de chamados
+* Organização das demandas da equipe
+* Histórico completo dos atendimentos
+* Indicadores operacionais
+* Relatórios gerenciais
+* Mais controle e rastreabilidade
 
-### Back-end
+<div align="center">
 
-- FastAPI
-- APIs REST
-- Pydantic
-- SQLAlchemy
-- JWT Authentication
-- Validação de Dados
+### Problema real → Solução digital → Resultado mensurável
 
-### Banco de Dados
-
-- PostgreSQL
-- SQL
-- Modelagem Relacional
-- Consultas e Manipulação de Dados
-
-### Android
-
-- Kotlin
-- Android Studio
-- Desenvolvimento Android Nativo
-- Consumo de APIs REST
-- Navegação entre Telas
-- Arquitetura MVVM
-
-### Ferramentas
-
-- Git
-- GitHub
-- VS Code
+</div>
 
 ---
 
-## 📌 Projeto em Destaque
+## ⚙️ Tecnologias
 
-### 🎫 SATI — Sistema de Atendimento de Tecnologia da Informação
+<div align="center">
 
-O SATI é um sistema desenvolvido para auxiliar o setor de Tecnologia da Informação do IMPLURB (Instituto Municipal de Planejamento Urbano) no gerenciamento e acompanhamento de chamados técnicos.
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin,androidstudio,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
 
-O sistema foi criado com o objetivo de centralizar as solicitações realizadas pelos usuários da instituição, permitindo maior organização, controle e eficiência nos atendimentos.
+<br><br>
 
-### Funcionalidades
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge\&logo=python\&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge\&logo=fastapi\&logoColor=00C7B7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=60A5FA)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-020617?style=for-the-badge\&logo=sqlalchemy\&logoColor=EF4444)
+![Kotlin](https://img.shields.io/badge/Kotlin-020617?style=for-the-badge\&logo=kotlin\&logoColor=A78BFA)
+![Android](https://img.shields.io/badge/Android-020617?style=for-the-badge\&logo=android\&logoColor=3DDC84)
 
-- Cadastro de usuários
-- Abertura de chamados
-- Controle de status
-- Acompanhamento em tempo real
-- Histórico completo de atendimentos
-- Dashboard gerencial
-- Indicadores operacionais
-- Emissão de relatórios
-- Gestão centralizada das demandas
-
-### Objetivos do Projeto
-
-- Melhorar o fluxo de atendimento da equipe de TI
-- Centralizar informações em um único sistema
-- Aumentar a rastreabilidade dos chamados
-- Facilitar a geração de relatórios gerenciais
-- Otimizar o acompanhamento das demandas internas
+</div>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub em movimento
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucin926&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucin926&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucin926&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub"/>
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucin926&layout=compact&hide_border=true&theme=github_dark&langs_count=5&hide=javascript,html,css" alt="Linguagens mais utilizadas"/>
 
-## 📈 Atividade de Contribuições
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucin926&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucin926&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Gráfico de contribuições"/>
+
+</div>
 
 ---
 
-## 🧠 GitHub Profile Summary
+## 🔥 Consistência
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucin926&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucin926&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucin926&theme=tokyonight"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Lucin926&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+
+</div>
 
 ---
 
-## 🏆 Streak (sequência de commits)
+## 🐍 Contribuições animadas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucin926&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lucin926/Lucin926/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&lines=Construindo+hoje+o+profissional+que+quero+ser+amanh%C3%A3;Aprendizado+cont%C3%ADnuo+%E2%80%A2+Projetos+reais+%E2%80%A2+Evolu%C3%A7%C3%A3o" alt="Mensagem final animada"/>
+
+<br>
+
+**Manaus — Amazonas 🇧🇷**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,45:1D4ED8,100:06B6D4&section=footer&animation=fadeIn"/>
+
+</div>
