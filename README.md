@@ -60,12 +60,13 @@ O **SATI** é um sistema criado para apoiar o setor de Tecnologia da Informaçã
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
 
 <br><br>
 
 ![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge\&logo=python\&logoColor=38BDF8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge\&logo=fastapi\&logoColor=00C7B7)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=60A5FA)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-020617?style=for-the-badge\&logo=sqlalchemy\&logoColor=EF4444)
 
