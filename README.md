@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1D4ED8,100:06B6D4&text=Luciano%20Nogueira&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Back-end%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Android&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1D4ED8,100:06B6D4&text=Luciano%20Nogueira&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Back-end%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&lines=Transformando+problemas+reais+em+software;Construindo+APIs+seguras+e+organizadas;Criando+solu%C3%A7%C3%B5es+que+geram+impacto;Back-end+Python+%2B+Android+Kotlin" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&lines=Transformando+problemas+reais+em+software;Construindo+APIs+seguras+e+organizadas;Criando+solu%C3%A7%C3%B5es+que+geram+impacto;Back-end+Python+%2B+FastAPI" alt="Apresentação animada"/>
 
 <br>
 
@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luciano-silva-334009290/)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTATO-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5597084399599)
 [![Gmail](https://img.shields.io/badge/GMAIL-ENVIAR_EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucianogueira156@gmail.com)
-
 
 </div>
 
@@ -61,7 +60,7 @@ O **SATI** é um sistema criado para apoiar o setor de Tecnologia da Informaçã
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kotlin,androidstudio,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark" alt="Tecnologias utilizadas"/>
 
 <br><br>
 
@@ -69,8 +68,6 @@ O **SATI** é um sistema criado para apoiar o setor de Tecnologia da Informaçã
 ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge\&logo=fastapi\&logoColor=00C7B7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=60A5FA)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-020617?style=for-the-badge\&logo=sqlalchemy\&logoColor=EF4444)
-![Kotlin](https://img.shields.io/badge/Kotlin-020617?style=for-the-badge\&logo=kotlin\&logoColor=A78BFA)
-![Android](https://img.shields.io/badge/Android-020617?style=for-the-badge\&logo=android\&logoColor=3DDC84)
 
 </div>
 
