@@ -22,7 +22,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Luciano Nogueira**, estudante de Ciência da Computação e desenvolvedor com foco em **Back-end com Python** e **Android com Kotlin**.
+Sou **Luciano Nogueira**, estudante de Ciência da Computação e desenvolvedor com foco em **Back-end com Python**.
 
 Construo soluções voltadas para problemas reais, trabalhando com APIs, regras de negócio, banco de dados, arquitetura de software e integração entre sistemas.
 
