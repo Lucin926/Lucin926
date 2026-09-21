@@ -66,10 +66,8 @@ Minha ideia é unir cada vez mais **engenharia de software + APIs + bancos de da
 * 🤖 **IA Engineering**
 * 🔐 **Segurança e boas práticas**
 * 🔧 **Git e GitHub**
-* ☕ **Java** como segunda linguagem para ampliar meu conhecimento de programação
+* ☕ **Java** 
 * 📚 **Engenharia de Software**
-
-Java faz parte da minha formação como uma **segunda linguagem de programação**, buscando ampliar minha base e meu conhecimento sobre diferentes paradigmas, estruturas e formas de desenvolver software.
 
 ### 💻 Minha trajetória
 
